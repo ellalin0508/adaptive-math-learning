@@ -1,0 +1,28 @@
+question_id,skill,difficulty,question,answer,hint,type
+Q001,S01,1,Find the positive solution of x² = 9.,3,Take the square root of both sides.,Procedural
+Q002,S01,1,Find the positive solution of x² = 25.,5,Take the square root of both sides.,Procedural
+Q003,S01,1,How many real solutions does x² = -4 have?,0,The square of a real number cannot be negative.,Conceptual
+Q004,S01,2,Solve x² - 5x + 6 = 0.,x = 2 or 3,Find two numbers with product 6 and sum -5.,Procedural
+Q005,S01,2,Solve x² + x - 12 = 0.,x = -4 or 3,Try factoring the quadratic.,Procedural
+Q006,S01,2,Solve x² - 16 = 0.,x = -4 or 4,Use the difference of squares.,Procedural
+Q007,S01,3,Solve 2x² - 7x + 3 = 0.,x = 0.5 or 3,Try factoring or using the quadratic formula.,Procedural
+Q008,S01,3,Solve x² - 6x + 2 = 0.,x = 3 ± √7,Complete the square.,Procedural
+Q009,S01,3,For what value of k does x² - 6x + k = 0 have exactly one real solution?,k = 9,Set the discriminant equal to zero.,Conceptual
+Q010,S02,1,Find the vertex of y = (x - 2)² + 3.,"(2, 3)",Use vertex form y = a(x - h)² + k.,Procedural
+Q011,S02,1,Find the vertex of y = (x + 4)² - 1.,"(-4, -1)",Pay attention to the sign inside the parentheses.,Procedural
+Q012,S02,1,Find the minimum value of y = (x - 3)² + 5.,5,A squared expression cannot be negative.,Conceptual
+Q013,S02,2,Find the vertex of y = x² - 6x + 5.,"(3, -4)",Use x = -b/(2a).,Procedural
+Q014,S02,2,Find the vertex of y = x² + 8x + 7.,"(-4, -9)",Find the axis of symmetry first.,Procedural
+Q015,S02,2,Rewrite y = x² - 4x + 7 in vertex form.,y = (x - 2)² + 3,Complete the square.,Procedural
+Q016,S02,3,Find the vertex of y = 2x² - 8x + 5.,"(2, -3)",Find the axis of symmetry and substitute.,Procedural
+Q017,S02,3,Find the maximum value of y = -2x² + 12x - 10.,8,The maximum occurs at the vertex.,Conceptual
+Q018,S02,3,A ball has height h(t) = -5t² + 20t + 1. What is its maximum height in meters?,21,Find the time at which the vertex occurs.,Application
+Q019,S03,1,Does y = -x² open upward or downward?,Downward,Look at the sign of the leading coefficient.,Conceptual
+Q020,S03,1,How is y = x² + 3 transformed from y = x²?,Up 3 units,A constant outside the square shifts the graph vertically.,Conceptual
+Q021,S03,1,How is y = (x - 4)² transformed from y = x²?,Right 4 units,Look at the expression inside the parentheses.,Conceptual
+Q022,S03,2,Describe the transformations from y = x² to y = (x + 2)² - 4.,Left 2 units and down 4 units,Identify h and k in vertex form.,Conceptual
+Q023,S03,2,Is y = 3x² narrower or wider than y = x²?,Narrower,Consider the effect of a vertical stretch.,Conceptual
+Q024,S03,2,Describe the transformations from y = x² to y = -(x - 2)².,Right 2 units and reflection across the x-axis,Consider the horizontal shift and negative coefficient.,Conceptual
+Q025,S03,3,Describe all transformations from y = x² to y = -2(x - 3)² + 1.,Right 3 units; vertical stretch by 2; reflection across the x-axis; up 1 unit,"Analyze a, h, and k separately.",Conceptual
+Q026,S03,3,"Write a quadratic function with vertex (2, -3) that opens downward and passes through (3, -5).",y = -2(x - 2)² - 3,Substitute the given point into vertex form.,Application
+Q027,S03,3,Explain why y = (2x)² and y = 4x² have identical graphs.,Both expressions simplify to 4x²,Apply the exponent to both factors.,Conceptual
